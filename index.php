@@ -43,8 +43,8 @@
   </nav> <!-- End Navigation -->
 
   <!-- Start Header Jumbotron-->
-  <header class="jumbotron back-image" style="background-image: url(images/banner1.jpg);">
-    <div class="myclass mainHeading">
+  <header class="jumbotron back-image" style="background-image: url(https://t3.ftcdn.net/jpg/04/29/35/62/360_F_429356296_CVQ5LkC6Pl55kUNLqLisVKgTw9vjyif1.jpg);">
+    <div class="myclass mainHeading" style="color: white">
       <h1 class="text-uppercase text-danger font-weight-bold">Welcome to Profitness</h1>
       <p class="font-italic">Keep your LIFE fit and healthy.. <br>Join the Professional Fitness center..</p>
       <a href="member/memberLogin.php" class="btn btn-primary mr-4">Login</a>

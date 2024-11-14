@@ -54,7 +54,7 @@ if($_SESSION['is_login']){
             <h4 class="my-0 fw-normal">1 Month</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$12.38<small class="text-muted fw-light">/USD</small></h1>
+            <h1 class="card-title pricing-card-title">₹1000<small class="text-muted fw-light">/INR</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>1 week free lessons</li>
               <li>Fast transactions</li>
@@ -65,9 +65,9 @@ if($_SESSION['is_login']){
       <input type="hidden" name="hosted_button_id" value="YZCM6FHAW9UTL">
       <table>
       <tr><td><input type="hidden" name="on0" value="Prices">Prices</td></tr><tr><td><select name="os0">
-        <option value="1 month">1 month : $12.38 USD - monthly</option>
-        <option value="6 months">6 months : $37.14 USD - monthly</option>
-        <option value="1 year">1 year : $99.04 USD - yearly</option>
+        <option value="1 month">1 month : ₹1000 INR - monthly</option>
+        <option value="6 months">6 months : ₹4000 INR - monthly</option>
+        <option value="1 year">1 year : ₹8000 INR - yearly</option>
       </select> </td></tr>
       </table>
       <input type="hidden" name="currency_code" value="USD">
@@ -86,7 +86,7 @@ if($_SESSION['is_login']){
             <h4 class="my-0 fw-normal">6 Months</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$37.14<small class="text-muted fw-light">/USD</small></h1>
+            <h1 class="card-title pricing-card-title">₹4000<small class="text-muted fw-light">/INR</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>1 Month free lessons</li>
               <li>Monthy </li>
@@ -97,9 +97,9 @@ if($_SESSION['is_login']){
       <input type="hidden" name="hosted_button_id" value="YZCM6FHAW9UTL">
       <table>
       <tr><td><input type="hidden" name="on0" value="Prices">Prices</td></tr><tr><td><select name="os0">
-      <option value="6 months">6 months : $37.14 USD - monthly</option>
-        <option value="1 month">1 month : $12.38 USD - monthly</option>
-        <option value="1 year">1 year : $99.04 USD - yearly</option>
+      <option value="1 month">1 month : ₹1000 INR - monthly</option>
+        <option value="6 months">6 months : ₹4000 INR - monthly</option>
+        <option value="1 year">1 year : ₹8000 INR - yearly</option>
       </select> </td></tr>
       </table>
       <input type="hidden" name="currency_code" value="USD">
@@ -119,7 +119,7 @@ if($_SESSION['is_login']){
             <h4 class="my-0 fw-normal">1 Year</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$99.04 <small class="text-muted fw-light">/USD</small></h1>
+            <h1 class="card-title pricing-card-title">₹8000 <small class="text-muted fw-light">/INR</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>3 months free lessons</li>
               <li>Free brevages</li>
@@ -130,9 +130,9 @@ if($_SESSION['is_login']){
       <input type="hidden" name="hosted_button_id" value="YZCM6FHAW9UTL">
       <table>
       <tr><td><input type="hidden" name="on0" value="Prices">Prices</td></tr><tr><td><select name="os0">
-      <option value="1 year">1 year : $99.04 USD - yearly</option>
-      <option value="6 months">6 months : $37.14 USD - monthly</option>
-      <option value="1 month">1 month : $12.38 USD - monthly</option>
+      <option value="1 month">1 month : ₹1000 INR - monthly</option>
+        <option value="6 months">6 months : ₹4000 INR - monthly</option>
+        <option value="1 year">1 year : ₹8000 INR - yearly</option>
         
       </select> </td></tr>
       </table>
